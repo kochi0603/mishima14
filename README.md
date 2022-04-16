@@ -1,1 +1,2 @@
-KNIME batch
+KNIMEのbatchモードの紹介です
+KNIME_batch_mode_20190921_kochi.pdf
